@@ -26,6 +26,7 @@ tqdm
 
 download the pretrained weights from this link:
 https://www.dropbox.com/s/kdvvl3nqyxl8l3z/xiwen.npz?dl=0
+
 then put it into the weights/ directory
 
 ### Inference
