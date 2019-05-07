@@ -31,4 +31,5 @@ then put it into the weights/ directory
 ### Inference
 
 Uses pretrained weights to make predictions on images.
-$ python3 detect.py --image_folder data/samples/ --img_size 608
+
+    $ python3 detect.py --image_folder data/samples/ --img_size 608
